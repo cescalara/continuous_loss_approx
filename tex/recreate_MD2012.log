@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.20)  23 OCT 2018 11:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.20)  19 NOV 2018 16:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -357,16 +357,12 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
 Package rerunfilecheck Info: File `recreate_MD2012.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
  ) 
 Here is how much of TeX's memory you used:
  5546 strings out of 493014
  83043 string characters out of 6133351
- 174084 words of memory out of 5000000
+ 174083 words of memory out of 5000000
  9046 multiletter control sequences out of 15000+600000
  8241 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -386,7 +382,7 @@ ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive
 /2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2
 016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on recreate_MD2012.pdf (4 pages, 388192 bytes).
+Output written on recreate_MD2012.pdf (4 pages, 388195 bytes).
 PDF statistics:
  152 PDF objects out of 1000 (max. 8388607)
  120 compressed objects within 2 object streams
